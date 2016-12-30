@@ -1,7 +1,7 @@
-base location lat-lon-zipcode:,33.81,-117.92,92802
+base location lat-lon-zipcode:,40.825295, -73.950344,10031
 to do list:,Code a new Alexa skill., Test Google Actions., Cook dinner., See a movie.
 calendar:,Dec 7. Amazon pre-built slots and intents developer preview.,Dec 8. Google Actions released.,Jan 7. Make a million dollars writing new skills! Ha Ha.
-traffic:,Disneyland,8039+Beach+Blvd+90620,12556+1313+Disneyland+Dr+92802
+traffic:,Minetta Tavern,8039+Beach+Blvd+90620,12556+1313+Disneyland+Dr+92802
 stock symbol:,AMZN,FB,TSLA,GOOG,MSFT
 stock name:,Amazon,Facebook,Tesla,Google,Microsoft
-mapquest boundingbox data:,"33.86,-117.99,33.77,-117.86"
+mapquest boundingbox data:,"40.825295, -73.950344.77,-117.86"
